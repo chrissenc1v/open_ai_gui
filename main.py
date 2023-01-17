@@ -51,7 +51,7 @@ class App:
     
         self.root.mainloop()
         
-        # all app class methods
+    # all app class methods
                 
     def enter_btn(self):
         # Number StrVariable that is set
